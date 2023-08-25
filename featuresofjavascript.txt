@@ -1,0 +1,10 @@
+Object Based Language.
+Lightweight Language.
+Interpreted Language. - default compiled language.
+Opensource cross platform Language.
+Network centric language.
+Api => Api => <= frontend.
+Network Applications not =>.
+Socket connection is allowed in nodejs via js.
+
+Lightweight ==> small memory footprint/easy to implement.
